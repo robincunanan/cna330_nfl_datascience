@@ -6,6 +6,13 @@ Development outline: Design, develop, and deploy one (1) Database project involv
 Execution: The project will follow an iterative design process, with final delivery set of the system December 6, 2019. The goal is to create a prototype of a sports fantasy database with statistics. Code will be finished by November 29, 2019. Code will be tested and debugged by November 30, 2019. A group project presentation will be delivered along with any other requested documentation. On December 6, 2019, the project will be complete.
 Schedule
 
+## Required Modules
+1. csv
+2. Matplotlib
+
+## Required Data
+1. https://www.footballdb.com/stats/stats.html?lg=NFL&yr=2018&type=reg&mode=K&conf=&limit=25
+
 ## Timeline 
 1. Acceptance of terms and initiation of project - 11/15/19
 2. Research Data - 11/22/19
@@ -14,14 +21,13 @@ Schedule
 5. Completion of project - 12/06/19
    
 ## Team members 
-1. Robin Cunanan
-2. Abdu Mohammed
-3. Amber Thompson
-4. Jasmine Holman
+1. Robin Cunanan, Researched Data & setup csv code
+2. Abdu Mohammed, Tested & Formatted Data in CSV
+3. Amber Thompson, Extracted Data from Database & input in CSV. Formatted Data in CSV.
+4. Jasmine Holman, Setup matplotlib code
 
-## Sources
+## Extra Sources
 1. https://fivethirtyeight.com/features/nfl-coaches-are-going-for-two-more-than-ever-it-took-them-long-enough/
 2. https://qz.com/516768/how-nfl-rule-changes-this-season-are-changing-football-strategy/
-3. https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiA_MPuBRB5EiwAHTTvMUSGtm_IaPQFSP7IXVEPpuRt5GTZuLtESYoJzwz6DC2M7X45oiyV8xoC6kAQAvD_BwE
-4. https://www.kaggle.com/datasets?search=NFL+
-5. https://www.kaggle.com/crawford/nfl-punt-analytics-starter-kernel
+3. https://pythonprogramming.net/loading-file-data-matplotlib-tutorial/
+
