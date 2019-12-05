@@ -10,7 +10,7 @@ with open('example.txt','r') as csvfile:
         x.append(int(row[0]))
         y.append(int(row[1]))
 
-plt.plot(x,y, label='Loaded from file!')
+plt.plot(x,y, label='Loade!')
 plt.xlabel('x')
 plt.ylabel('y')
 plt.title('NFL Extra-Point Accuracy \nstart year- end year')
