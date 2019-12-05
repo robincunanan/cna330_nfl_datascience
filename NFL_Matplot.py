@@ -13,6 +13,6 @@ with open('example.txt','r') as csvfile:
 plt.plot(x,y, label='Loaded from file!')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.title('Interesting Graph\nCheck it out')
+plt.title('NFL Extra-Point Accuracy \nstart year- end year')
 plt.legend()
 plt.show()
